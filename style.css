@@ -1,0 +1,27 @@
+*{
+    text-align: centre;
+}
+h1{
+    color: green;
+}
+nav{
+    background-color: black;
+    color: white;
+    height: 4rem;
+    position: fixed;
+    top: 0;
+    padding: 13px;
+    width: 100%;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+
+}
